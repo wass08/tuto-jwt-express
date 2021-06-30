@@ -1,0 +1,20 @@
+{
+  "name": "jwt-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js",
+    "test": "node fake-client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
