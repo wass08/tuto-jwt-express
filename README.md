@@ -3,7 +3,7 @@ J'ai laissé le fichier d'env pour que vous puissiez tester, ne faites jamais ç
 - `npm install`
 
 # Run
-- `npm run dev`
+- `npm run serve`
 
 # Test 
 - `npm run test`
